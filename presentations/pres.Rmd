@@ -192,23 +192,6 @@ Say: “Small firms can have higher averages because a few names explode; median
 
 ---
 
-# Model 2 — Add liquidity + growth
-
-.pull-left[
-**Added:** Current ratio (liquidity) & Revenue growth (growth)
-
-- Liquidity (Current Ratio) and Revenue Growth are not significant
-- Core signals remain: volatility (+), size (+), leverage (–)
-- R² increases slightly (3.8% → 4.8%)
-- Adding growth and liquidity does not meaningfully change results
-- Risk and capital structure matter more than short-term growth in this sample
-]
-
-.pull-right[
-<img src="reg2.png" width="100%">
-]
----
-
 # Model 3 — Sector fixed effects
 
 .pull-left[
